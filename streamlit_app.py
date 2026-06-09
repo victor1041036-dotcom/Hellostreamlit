@@ -6,8 +6,8 @@ import streamlit as st
 # 1. 開發者變數定義區 (請在此修改個人學籍資訊)
 # ==========================================
 dev_name = "曾濬宏"                # 學生姓名
-dev_class = "高二 1 班"            # 班級
-dev_id = "311540"               # 學號
+dev_class = "高二 12 班"            # 班級
+dev_id = "311531"               # 學號
 dev_group = "自然組"               # 組別 (自然組 或 自學組)
 dev_skills = ["Python", "GitHub", "Streamlit", "Colab"]
 
